@@ -1,6 +1,6 @@
 # Linear Rational Expectations Models
 
-I document some widely used methods in solving and estimating linear rational expectation models. I start presenting different solution methods and explaining how we can use these algorithms to solve simple models. Then, I make a brief review of Bayesian statistics. After that, I explain in a general way the usefulness of the Kalman Filter and give some useful examples. Finally, I present a simple sampler algorithm used in Bayesian estimation of linear rational expectation models and expose the way we implement it in a small open economy model using Peruvian data.
+I document some widely used methods in solving and estimating linear rational expectation models. I start presenting different solution methods and explaining how we can use these algorithms to solve simple models. Then, I make a brief review of Bayesian statistics. After that, I explain in a general way the usefulness of the Kalman Filter and give some useful examples. Finally, I present a simple sampler algorithm used in the estimation of linear rational expectation models and expose the way we implement it in a small open economy model using Peruvian data.
 
 Folders:
 1. Estimation: Contains codes for bayesian estimation and Sims' code for solving linear RE models.
